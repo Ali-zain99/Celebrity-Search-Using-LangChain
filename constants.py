@@ -1,0 +1,1 @@
+openai_key="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"
